@@ -1,0 +1,15 @@
+{
+    "categories": [
+        {"id": "1", "name": "Acción"},
+        {"id": "2", "name": "Aventura"},
+        {"id": "3", "name": "Comedia"},
+        {"id": "4", "name": "Drama"},
+        {"id": "5", "name": "Fantasía"},
+        {"id": "6", "name": "Musical"},
+        {"id": "7", "name": "Suspenso"},
+        {"id": "8", "name": "Terror"},
+        {"id": "9", "name": "Infantil"}
+        
+    
+    ]
+}
